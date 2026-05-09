@@ -12,3 +12,7 @@ __pycache__/
 
 # Claude Code per-machine permission settings
 .claude/settings.local.json
+
+# Local secrets — never commit
+.github-token
+*.token
