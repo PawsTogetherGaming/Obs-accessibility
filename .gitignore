@@ -1,0 +1,14 @@
+# Build artifacts (shipped via GitHub Releases, not the source tree)
+dist/
+
+# Python bytecode produced when NVDA loads the app module
+__pycache__/
+*.pyc
+
+# IDE / editor scratch
+.vscode/
+.idea/
+*.swp
+
+# Claude Code per-machine permission settings
+.claude/settings.local.json
