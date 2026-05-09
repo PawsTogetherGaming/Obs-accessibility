@@ -114,6 +114,10 @@ The "OBS Accessibility" category only appears in the Input Gestures dialog while
 - Tested against NVDA 2025.3.x and OBS Studio 30.x on Windows 11. Earlier OBS versions may have different control layouts.
 - The dock-jump gestures assume the default dock layout. If you've heavily rearranged OBS's UI, some destinations may not be present.
 
+## License
+
+GNU General Public License, version 2 — same license as NVDA itself. See the [LICENSE](https://github.com/PawsTogetherGaming/Obs-accessibility/blob/main/LICENSE) file in the repository for the full text.
+
 ## Changelog
 
 ### 0.8.1
